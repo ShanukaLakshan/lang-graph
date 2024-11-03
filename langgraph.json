@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "default_flow": "./src/graph.py:create_workflow"
+  },
+  "env": ".env"
+}

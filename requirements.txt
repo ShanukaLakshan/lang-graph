@@ -1,0 +1,27 @@
+# Core dependencies
+langchain>=0.1.0
+langgraph>=0.0.10
+pydantic>=2.0.0
+
+# LLM providers
+langchain-openai>=0.0.5
+langchain-anthropic>=0.0.5
+langchain-cohere>=0.0.5
+
+# Database and search
+sqlalchemy>=2.0.0
+langchain-community>=0.0.10
+langchain-experimental>=0.0.10
+
+# Utilities
+python-dotenv>=1.0.0
+tavily-python>=0.1.9
+uuid>=1.30
+logging>=0.5.1.2
+
+# Type hints
+typing-extensions>=4.5.0
+
+# Optional but recommended
+jupyter>=1.0.0  # For notebook usage
+pytest>=7.0.0   # For testing 
